@@ -1,5 +1,5 @@
 ---
-title: 2sum
+title: two-sum
 date: 2020-12-16 20:05:34
 tags: 算法
 ---
